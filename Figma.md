@@ -1,2 +1,2 @@
 # Projeto_LovePET
-Esse foi meu primeiro projeto com as linguagens HTML e CSS.
+Link: https://www.figma.com/file/5sVgnBinslUXhplgLmjRUl/Pet-shop-(Copy)?node-id=0%3A1
